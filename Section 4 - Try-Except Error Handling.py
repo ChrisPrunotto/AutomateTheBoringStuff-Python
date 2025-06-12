@@ -1,3 +1,6 @@
+#Section 4, lesson 11
+# Try and Except statements
+
 #use try/except for catching errors, like dividing by zero
 def div42by(divideby):
     try:

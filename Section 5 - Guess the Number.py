@@ -1,3 +1,6 @@
+#Section 5, lesson 12
+# Writing a "Guess the Number" program
+
 import random
 
 print('Hello, what is your name?')
